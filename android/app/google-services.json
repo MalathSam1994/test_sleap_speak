@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766143111272",
+    "project_id": "sleep-speak-c5a49",
+    "storage_bucket": "sleep-speak-c5a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766143111272:android:b012581d0cbd272b3a9bdd",
+        "android_client_info": {
+          "package_name": "com.example.sleep_speak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9Jnp6xFa7mW7Q_KnVqHB0gPdhSt-b9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
